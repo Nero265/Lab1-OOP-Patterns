@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Livada">
+    <Position X="3.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AABIBEAAgQAABAAAAgAAAAEAlABUAAAAEAAAQCAAEAI=</HashCode>
+      <FileName>Livada.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="matrica" />
+      <Field Name="instance" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Ruza">
+    <Position X="3" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ruza.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SadrzajPolja">
+    <Position X="7.75" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AABACAAIAgAACAIAAAABAAAAAIIAAACAQAAAAAAAAAA=</HashCode>
+      <FileName>SadrzajPolja.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SemeRuze">
+    <Position X="0.5" Y="6.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAIAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SemeRuze.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trava">
+    <Position X="5" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Trava.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Puz">
+    <Position X="7.25" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Puz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JajascePuza">
+    <Position X="9.5" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>JajascePuza.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrojanskiPuz">
+    <Position X="11.75" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TrojanskiPuz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrojanskaRuza">
+    <Position X="14" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>TrojanskaRuza.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoljeFactory">
+    <Position X="11" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PoljeFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Igrac">
+    <Position X="10.5" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAARAAAAAAAAAAACAA=</HashCode>
+      <FileName>Igrac.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="livada" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

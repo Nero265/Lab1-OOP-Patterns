@@ -1,0 +1,23 @@
+﻿  Igrac.cpp
+  JajascePuza.cpp
+  Livada.cpp
+C:\Users\Bogdanovici\OneDrive\Desktop\Elfak\Druga godina\OOProjektovanje\Lab1\nenadbogdanovic-19546\nenadbogdanovic-19546\Livada.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Igrac.cpp')
+  
+C:\Users\Bogdanovici\OneDrive\Desktop\Elfak\Druga godina\OOProjektovanje\Lab1\nenadbogdanovic-19546\nenadbogdanovic-19546\Livada.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Livada.cpp')
+  
+  main.cpp
+C:\Users\Bogdanovici\OneDrive\Desktop\Elfak\Druga godina\OOProjektovanje\Lab1\nenadbogdanovic-19546\nenadbogdanovic-19546\Livada.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+  Puz.cpp
+  Ruza.cpp
+  SadrzajPolja.cpp
+  SemeRuze.cpp
+  Trava.cpp
+  Generating Code...
+C:\Users\Bogdanovici\OneDrive\Desktop\Elfak\Druga godina\OOProjektovanje\Lab1\nenadbogdanovic-19546\nenadbogdanovic-19546\SemeRuze.cpp(25,1): warning C4715: 'SemeRuze::ReakcijaNaMlaz': not all control paths return a value
+C:\Users\Bogdanovici\OneDrive\Desktop\Elfak\Druga godina\OOProjektovanje\Lab1\nenadbogdanovic-19546\nenadbogdanovic-19546\PoljeFactory.h(46,1): warning C4715: 'PoljeFactory::ucitajPolje': not all control paths return a value
+C:\Users\Bogdanovici\OneDrive\Desktop\Elfak\Druga godina\OOProjektovanje\Lab1\nenadbogdanovic-19546\nenadbogdanovic-19546\JajascePuza.cpp(15,1): warning C4715: 'JajascePuza::ReakcijaNaMlaz': not all control paths return a value
+  nenadbogdanovic-19546.vcxproj -> C:\Users\Bogdanovici\OneDrive\Desktop\Elfak\Druga godina\OOProjektovanje\Lab1\nenadbogdanovic-19546\x64\Debug\nenadbogdanovic-19546.exe
